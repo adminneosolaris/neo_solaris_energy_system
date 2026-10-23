@@ -1,0 +1,1047 @@
+[
+  {
+    "products": [
+      {
+        "id": 101,
+        "name": "PUREPower",
+        "value": "3.0 Lite",
+        "type": "3 kW Compact Energy Storage & Backup Solution",
+        "image": "/assets/Products/PuREPower-3-lite.png",
+        "about": "PUREPower 3.0 Lite is a compact lithium-ion energy storage and backup solution with a 3000 W rated power output and 2 kWh battery capacity. It integrates MPPT solar charging, high-frequency isolation, advanced Nano PCM cooling, intelligent protection and multiple communication interfaces for reliable On Grid, Off Grid and Hybrid operation.",
+        "specs": {
+          "ratedPower": "3000 W",
+          "capacity": "2 kWh",
+          "batteryCapacity": "2 kWh",
+          "backupTime": "Reliable backup support",
+          "warranty": "5 years",
+          "extendedWarranty": "12 years",
+          "smartAI": "Yes",
+          "solarSupport": "Yes",
+          "thermal": "Yes",
+          "maintenance": "Yes"
+        },
+        "keySpecs": [
+          { "label": "Power", "value": "3000 W" },
+          { "label": "Capacity", "value": "2 kWh" },
+          { "label": "Voltage", "value": "24V" },
+          { "label": "Batteries", "value": "1 Nos" }
+        ],
+        "colors": [
+          { "name": "Pearl White", "class": "bg-white border border-slate-300" },
+          { "name": "Silver Metallic", "class": "bg-zinc-300" },
+          { "name": "Solar Yellow", "class": "bg-yellow-400" },
+          { "name": "Vibrant Orange", "class": "bg-orange-500" }
+        ],
+        "images": [
+          "/assets/Products/PuREPower-3-lite.png",
+          "/assets/Products/PuREPower-3-lite.png",
+          "/assets/Products/PuREPower-3-lite.png",
+          "/assets/Products/PuREPower-3-lite.png"
+        ],
+        "specSections": {
+          "input": {
+            "title": "INPUT",
+            "items": [
+              { "label": "Voltage", "value": "230 VAC" },
+              { "label": "Selectable Voltage Range", "value": "190 - 260 VAC" },
+              { "label": "Frequency Range", "value": "50 Hz/60 Hz (Auto sensing)" }
+            ]
+          },
+          "output": {
+            "title": "OUTPUT",
+            "items": [
+              { "label": "AC Voltage Regulation (Battery Mode)", "value": "230 VAC ± 5%" },
+              { "label": "Surge Power", "value": "6000 VA" },
+              { "label": "Efficiency (Peak)", "value": "~97%" },
+              { "label": "Switching Modes", "value": "On Grid / Off Grid / Hybrid (Optional)" },
+              { "label": "Transfer Time", "value": "10 ms" },
+              { "label": "Waveform", "value": "Pure sine wave" }
+            ]
+          },
+          "solar": {
+            "title": "SOLAR CHARGER & AC CHARGER",
+            "items": [
+              { "label": "Solar Charger Type", "value": "MPPT" },
+              { "label": "No. of MPPTs", "value": "1" },
+              { "label": "Maximum PV Array Open Circuit Voltage", "value": "450 VDC" },
+              { "label": "Maximum PV Array Power", "value": "5000 W" },
+              { "label": "Maximum PV Input Current", "value": "18 A" },
+              { "label": "MPP Range @ Operating Voltage", "value": "60 ~ 450 VDC" },
+              { "label": "Maximum Solar Charge Current", "value": "100 A" },
+              { "label": "Maximum AC Charge Current", "value": "60 A" },
+              { "label": "Maximum Charge Current", "value": "100 A" }
+            ]
+          },
+          "battery": {
+            "title": "BATTERY",
+            "items": [
+              { "label": "Battery Cell Technology", "value": "Lithium Ion" },
+              { "label": "Nominal Voltage", "value": "24 V" },
+              { "label": "Battery Capacity (KWh)", "value": "2 kWh" },
+              { "label": "Max. Continuous Charging Current", "value": "10 A" },
+              { "label": "Max. Continuous Discharging Current", "value": "90 A" },
+              { "label": "Full Charging Voltage", "value": "29.3 V" },
+              { "label": "Quantity of Batteries", "value": "1 Nos" }
+            ]
+          },
+          "protection": {
+            "title": "PROTECTION",
+            "items": [
+              { "label": "Protection", "value": "5th Gen BMS, DC breaker" },
+              { "label": "Anti-islanding Protection", "value": "Integrated" },
+              { "label": "AC Over Current Protection", "value": "Integrated" },
+              { "label": "Output Short Circuit", "value": "Integrated" },
+              { "label": "Overload Protection", "value": "Integrated" },
+              { "label": "Battery Voltage Too Low", "value": "Integrated" },
+              { "label": "Temperature Too High", "value": "Integrated" },
+              { "label": "Input Voltage Out of Range / Ripple Too High", "value": "Integrated" },
+              { "label": "Fan Block", "value": "Integrated" },
+              { "label": "IP Protection", "value": "IP54" }
+            ]
+          }
+        },
+        "mechanicalData": [
+          { "label": "Dimension, L x W x H (mm)", "value": "(375 x 155 x 440)" },
+          { "label": "Cooling Concept", "value": "Advanced Nano PCM combined with forced convection" },
+          { "label": "LCD Display with Indicators", "value": "Operating mode/load/input/output, etc." },
+          { "label": "PV Connection", "value": "MC4 connector" },
+          { "label": "AC Connection", "value": "Terminal connectors" },
+          { "label": "No. of AC Output", "value": "1" },
+          { "label": "Topology", "value": "High frequency isolation" },
+          { "label": "Installation Style", "value": "Wall-mounted" },
+          { "label": "Operating Temperature Range", "value": "-10°C ~ 60°C*" },
+          { "label": "Noise", "value": "<50dB" },
+          { "label": "Warranty", "value": "5 years" },
+          { "label": "Extended Warranty", "value": "12 years" },
+          { "label": "Net Weight (kg)", "value": "28 Kgs" },
+          { "label": "Communication Interface", "value": "BMS, Dry-contact, CAN, Bluetooth, Wi-Fi, AI Cloud" },
+          { "label": "Certifications", "value": "BIS Certified (R-63005436) IS 16221 (PART 2): 2015 / IEC 62109-2: 2011 AND IS 16169: 2019 / IEC 62116: 2014 AND IS 17980: 2022 / IEC 62891:2020" }
+        ]
+      },
+      {
+        "id": 102,
+        "name": "PUREPower",
+        "value": "3.0",
+        "type": "3 kW Energy Storage & Backup Solution",
+        "image": "/assets/Products/PuREPower-3.0.png",
+        "about": "PUREPower 3.0 is an advanced lithium-ion energy storage and backup solution designed for reliable power management. With a 3000 W rated power output, integrated MPPT solar charging, high-frequency isolation, intelligent protection and multiple communication interfaces, it supports On Grid, Off Grid and Hybrid operation for dependable energy availability.",
+        "specs": {
+          "ratedPower": "3000 W",
+          "capacity": "3 kWh",
+          "batteryCapacity": "3 kWh",
+          "backupTime": "Reliable backup support",
+          "warranty": "5 years",
+          "extendedWarranty": "12 years",
+          "smartAI": "Yes",
+          "solarSupport": "Yes",
+          "thermal": "Yes",
+          "maintenance": "Yes"
+        },
+        "keySpecs": [
+          { "label": "Power", "value": "3000 W" },
+          { "label": "Capacity", "value": "3 kWh" },
+          { "label": "Voltage", "value": "48V" },
+          { "label": "Batteries", "value": "1 Nos" }
+        ],
+        "colors": [
+          { "name": "Pearl White", "class": "bg-white border border-slate-300" },
+          { "name": "Silver Metallic", "class": "bg-zinc-300" },
+          { "name": "Solar Yellow", "class": "bg-yellow-400" },
+          { "name": "Vibrant Orange", "class": "bg-orange-500" }
+        ],
+        "images": [
+          "/assets/Products/PuREPower-3.0.png",
+          "/assets/Products/PuREPower-3.0.png",
+          "/assets/Products/PuREPower-3.0.png",
+          "/assets/Products/PuREPower-3.0.png"
+        ],
+        "specSections": {
+          "input": {
+            "title": "INPUT",
+            "items": [
+              { "label": "Voltage", "value": "230 VAC" },
+              { "label": "Selectable Voltage Range", "value": "190 - 260 VAC" },
+              { "label": "Frequency Range", "value": "50 Hz/60 Hz (Auto sensing)" }
+            ]
+          },
+          "output": {
+            "title": "OUTPUT",
+            "items": [
+              { "label": "AC Voltage Regulation (Battery Mode)", "value": "230 VAC ± 5%" },
+              { "label": "Surge Power", "value": "6000 VA" },
+              { "label": "Efficiency (Peak)", "value": "~97%" },
+              { "label": "Switching Modes", "value": "On Grid / Off Grid / Hybrid (Optional)" },
+              { "label": "Transfer Time", "value": "10 ms" },
+              { "label": "Waveform", "value": "Pure sine wave" }
+            ]
+          },
+          "solar": {
+            "title": "SOLAR CHARGER & AC CHARGER",
+            "items": [
+              { "label": "Solar Charger Type", "value": "MPPT" },
+              { "label": "No. of MPPTs", "value": "1" },
+              { "label": "Maximum PV Array Open Circuit Voltage", "value": "450 VDC" },
+              { "label": "Maximum PV Array Power", "value": "8500 W" },
+              { "label": "Maximum PV Input Current", "value": "27 A" },
+              { "label": "MPP Range @ Operating Voltage", "value": "60 ~ 450 VDC" },
+              { "label": "Maximum Solar Charge Current", "value": "100 A" },
+              { "label": "Maximum AC Charge Current", "value": "60 A" },
+              { "label": "Maximum Charge Current", "value": "100 A" }
+            ]
+          },
+          "battery": {
+            "title": "BATTERY",
+            "items": [
+              { "label": "Battery Cell Technology", "value": "Lithium Ion" },
+              { "label": "Nominal Voltage", "value": "48V" },
+              { "label": "Battery Capacity (KWh)", "value": "3 kWh" },
+              { "label": "Max. Continuous Charging Current", "value": "10 A" },
+              { "label": "Max. Continuous Discharging Current", "value": "60 A" },
+              { "label": "Full Charging Voltage", "value": "54.3 V" },
+              { "label": "Quantity of Batteries", "value": "1 Nos" }
+            ]
+          },
+          "protection": {
+            "title": "PROTECTION",
+            "items": [
+              { "label": "Protection", "value": "5th Gen BMS, DC breaker" },
+              { "label": "Anti-islanding Protection", "value": "Integrated" },
+              { "label": "AC Over Current Protection", "value": "Integrated" },
+              { "label": "Output Short Circuit", "value": "Integrated" },
+              { "label": "Overload Protection", "value": "Integrated" },
+              { "label": "Battery Voltage Too Low", "value": "Integrated" },
+              { "label": "Temperature Too High", "value": "Integrated" },
+              { "label": "Input Voltage Out of Range / Ripple Too High", "value": "Integrated" },
+              { "label": "Fan Block", "value": "Integrated" },
+              { "label": "IP Protection", "value": "IP54" }
+            ]
+          }
+        },
+        "mechanicalData": [
+          { "label": "Dimension, L x W x H (mm)", "value": "(362 x 155 x 728)" },
+          { "label": "Cooling Concept", "value": "Advanced Nano PCM combined with forced convection" },
+          { "label": "LCD Display with Indicators", "value": "Operating mode / load / input / output, etc." },
+          { "label": "PV Connection", "value": "MC4 connector" },
+          { "label": "AC Connection", "value": "Terminal connectors" },
+          { "label": "No. of AC Output", "value": "1" },
+          { "label": "Topology", "value": "High frequency isolation" },
+          { "label": "Installation Style", "value": "Wall-mounted" },
+          { "label": "Operating Temperature Range", "value": "-10°C ~ 60°C*" },
+          { "label": "Noise", "value": "<50dB" },
+          { "label": "Warranty", "value": "5 years" },
+          { "label": "Extended Warranty", "value": "12 years" },
+          { "label": "Net Weight (kg)", "value": "34 Kgs" },
+          { "label": "Communication Interface", "value": "BMS, Dry-contact, CAN, Bluetooth, Wi-Fi, AI Cloud" },
+          { "label": "Certifications", "value": "BIS Certified (R-63005436) IS 16221 (PART 2): 2015 / IEC 62109-2: 2011 AND IS 16169: 2019 / IEC 62116: 2014 AND IS 17980: 2022 / IEC 62891:2020" }
+        ]
+      },
+      {
+        "id": 103,
+        "name": "PUREPower",
+        "value": "5.0",
+        "type": "Advanced Energy Storage & Backup Solution",
+        "image": "/assets/Products/PuREPower-5.0.png",
+        "about": "PUREPower 5.0 is an advanced energy storage and backup solution designed for reliable power management. It combines lithium-ion battery technology, MPPT solar charging, advanced protection features and high-frequency isolation for dependable on-grid, off-grid and hybrid operation.",
+        "specs": {
+          "ratedPower": "5500 W",
+          "capacity": "5 kWh",
+          "batteryCapacity": "5 kWh",
+          "warranty": "5 years",
+          "extendedWarranty": "12 years"
+        },
+        "keySpecs": [
+          { "label": "Power", "value": "5500 W" },
+          { "label": "Capacity", "value": "5 kWh" },
+          { "label": "Voltage", "value": "48V" },
+          { "label": "Batteries", "value": "1 Nos" }
+        ],
+        "colors": [
+          { "name": "Pearl White", "class": "bg-white border border-slate-300" },
+          { "name": "Silver Metallic", "class": "bg-zinc-300" },
+          { "name": "Solar Yellow", "class": "bg-yellow-400" },
+          { "name": "Vibrant Orange", "class": "bg-orange-500" }
+        ],
+        "images": [
+          "/assets/Products/PuREPower-5.0.png",
+          "/assets/Products/PuREPower-5.0.png",
+          "/assets/Products/PuREPower-5.0.png",
+          "/assets/Products/PuREPower-5.0.png"
+        ],
+        "specSections": {
+          "input": {
+            "title": "INPUT",
+            "items": [
+              { "label": "Voltage", "value": "230VAC" },
+              { "label": "Selectable Voltage Range", "value": "190 - 260 VAC" },
+              { "label": "Frequency Range", "value": "50 Hz/60 Hz (Auto sensing)" }
+            ]
+          },
+          "output": {
+            "title": "OUTPUT",
+            "items": [
+              { "label": "AC Voltage Regulation (Battery Mode)", "value": "230VAC ± 5%" },
+              { "label": "Surge Power", "value": "11000VA" },
+              { "label": "Efficiency (Peak)", "value": "~~ 97%" },
+              { "label": "Switching Modes", "value": "On Grid /Off Grid/Hybrid(Optional)" },
+              { "label": "Transfer Time", "value": "10 ms" },
+              { "label": "Waveform", "value": "Pure sine wave" }
+            ]
+          },
+          "solar": {
+            "title": "SOLAR CHARGER & AC CHARGER",
+            "items": [
+              { "label": "Solar Charger Type", "value": "MPPT" },
+              { "label": "No. of MPPTs", "value": "1" },
+              { "label": "Maximum PV Array Open Circuit Voltage", "value": "450 VDC" },
+              { "label": "Maximum PV Array Power", "value": "8500W" },
+              { "label": "Maximum PV Input Current", "value": "27 A" },
+              { "label": "MPP Range @ Operating Voltage", "value": "60~ 450VDC" },
+              { "label": "Maximum Solar Charge Current", "value": "100A" },
+              { "label": "Maximum AC Charge Current", "value": "100A" },
+              { "label": "Maximum Charge Current", "value": "100A" }
+            ]
+          },
+          "battery": {
+            "title": "BATTERY",
+            "items": [
+              { "label": "Battery Cell Technology", "value": "Lithium Ion" },
+              { "label": "Nominal Voltage", "value": "48V" },
+              { "label": "Battery Capacity (KWh)", "value": "5 kWh" },
+              { "label": "Max. Continuous charging Current", "value": "20A" },
+              { "label": "Max. Continuous Discharging Current", "value": "90A" },
+              { "label": "Full Charging Voltage", "value": "54.3V" },
+              { "label": "Quantity of Batteries", "value": "1 Nos" }
+            ]
+          },
+          "protection": {
+            "title": "PROTECTION",
+            "items": [
+              { "label": "Protection", "value": "5th Gen BMS,DC breaker" },
+              { "label": "Anti-islanding Protection", "value": "Integrated" },
+              { "label": "AC Over Current Protection", "value": "Integrated" },
+              { "label": "Output short circuit", "value": "Integrated" },
+              { "label": "Overload Protection", "value": "Integrated" },
+              { "label": "Battery voltage too low", "value": "Integrated" },
+              { "label": "Temperature too high", "value": "Integrated" },
+              { "label": "Input voltage out of range/Ripple too high", "value": "Integrated" },
+              { "label": "Fan block", "value": "Integrated" },
+              { "label": "IP Protection", "value": "IP54" }
+            ]
+          }
+        },
+        "mechanicalData": [
+          { "label": "Dimension, L x W x H (mm)", "value": "(382 x 155x 773)" },
+          { "label": "Cooling concept", "value": "Advanced Nano PCM combined with forced convection" },
+          { "label": "LCD display with indicators", "value": "Operating mode/load/input/output, etc" },
+          { "label": "PV connection", "value": "MC4 connector" },
+          { "label": "AC connection", "value": "Terminal connectors" },
+          { "label": "No.of AC Output", "value": "1" },
+          { "label": "Topology", "value": "High frequency isolation" },
+          { "label": "Installation Style", "value": "Wall-mounted" },
+          { "label": "Operating Temperature Range", "value": "-10°C ~ 60°C*" },
+          { "label": "Noise", "value": "<50dB" },
+          { "label": "Warranty", "value": "5 years" },
+          { "label": "Extended Warranty", "value": "12 years" },
+          { "label": "Net Weight (kg)", "value": "39 Kgs" },
+          { "label": "Communication Interface", "value": "BMS, Dry-contact, CAN, Bluetooth, Wi-Fi, AI Cloud" },
+          { "label": "Certifications", "value": "BIS Certified (R-63005436) IS 16221 (PART 2): 2015/ IEC 62109-2: 2011 AND IS 16169: 2019/ IEC 62116: 2014 AND IS 17980: 2022/IEC 62891:2020" }
+        ]
+      },
+      {
+        "id": 104,
+        "name": "PUREPower",
+        "value": "12.0",
+        "type": "Advanced Energy Storage & Backup Solution",
+        "image": "/assets/Products/PuREPower-12.0.png",
+        "about": "PUREPower 12.0 is an advanced energy storage and backup solution designed for reliable power management. It combines lithium-ion battery technology, MPPT solar charging, advanced protection features and high-frequency isolation for dependable on-grid, off-grid and hybrid operation.",
+        "specs": {
+          "ratedPower": "12000 W",
+          "capacity": "12 kWh",
+          "batteryCapacity": "12 kWh",
+          "warranty": "5 years",
+          "extendedWarranty": "12 years"
+        },
+        "keySpecs": [
+          { "label": "Power", "value": "12000 W" },
+          { "label": "Capacity", "value": "12 kWh" },
+          { "label": "Voltage", "value": "48V" },
+          { "label": "Batteries", "value": "2 Nos" }
+        ],
+        "colors": [
+          { "name": "Pearl White", "class": "bg-white border border-slate-300" },
+          { "name": "Silver Metallic", "class": "bg-zinc-300" },
+          { "name": "Solar Yellow", "class": "bg-yellow-400" },
+          { "name": "Vibrant Orange", "class": "bg-orange-500" }
+        ],
+        "images": [
+          "/assets/Products/PuREPower-12.0.png",
+          "/assets/Products/PuREPower-12.0.png",
+          "/assets/Products/PuREPower-12.0.png",
+          "/assets/Products/PuREPower-12.0.png"
+        ],
+        "specSections": {
+          "input": {
+            "title": "INPUT",
+            "items": [
+              { "label": "Voltage", "value": "230VAC" },
+              { "label": "Selectable Voltage Range", "value": "190 - 260 VAC" },
+              { "label": "Frequency Range", "value": "50 Hz/60 Hz (Auto sensing)" }
+            ]
+          },
+          "output": {
+            "title": "OUTPUT",
+            "items": [
+              { "label": "AC Voltage Regulation (Battery Mode)", "value": "230VAC ± 5%" },
+              { "label": "Surge Power", "value": "22000VA" },
+              { "label": "Efficiency (Peak)", "value": "~~ 94%" },
+              { "label": "Switching Modes", "value": "On Grid /Off Grid/Hybrid(Optional)" },
+              { "label": "Transfer Time", "value": "10 ms" },
+              { "label": "Waveform", "value": "Pure sine wave" }
+            ]
+          },
+          "solar": {
+            "title": "SOLAR CHARGER & AC CHARGER",
+            "items": [
+              { "label": "Solar Charger Type", "value": "MPPT" },
+              { "label": "No. of MPPTs", "value": "2" },
+              { "label": "Maximum PV Array Open Circuit Voltage", "value": "450 VDC" },
+              { "label": "Maximum PV Array Power", "value": "15000W (2X7500W)" },
+              { "label": "Maximum PV Input Current", "value": "27 A X 2" },
+              { "label": "MPP Range @ Operating Voltage", "value": "60~ 450VDC" },
+              { "label": "Maximum Solar Charge Current", "value": "150A" },
+              { "label": "Maximum AC Charge Current", "value": "150A" },
+              { "label": "Maximum Charge Current", "value": "150A" }
+            ]
+          },
+          "battery": {
+            "title": "BATTERY",
+            "items": [
+              { "label": "Battery Cell Technology", "value": "Lithium Ion" },
+              { "label": "Nominal Voltage", "value": "48V" },
+              { "label": "Battery Capacity (KWh)", "value": "12 kWh" },
+              { "label": "Max. Continuous Charging Current", "value": "20A X 2" },
+              { "label": "Max. Continuous Discharging Current", "value": "90A X 2" },
+              { "label": "Full Charging Voltage", "value": "54.3V" },
+              { "label": "Quantity of Batteries", "value": "2 Nos" }
+            ]
+          },
+          "protection": {
+            "title": "PROTECTION",
+            "items": [
+              { "label": "Protection", "value": "5th Gen BMS,DC breaker" },
+              { "label": "Anti-islanding Protection", "value": "Integrated" },
+              { "label": "AC Over Current Protection", "value": "Integrated" },
+              { "label": "Output short circuit", "value": "Integrated" },
+              { "label": "Overload Protection", "value": "Integrated" },
+              { "label": "Battery voltage too low", "value": "Integrated" },
+              { "label": "Temperature too high", "value": "Integrated" },
+              { "label": "Input voltage out of range/Ripple too high", "value": "Integrated" },
+              { "label": "Fan block", "value": "Integrated" },
+              { "label": "IP Protection", "value": "IP65" }
+            ]
+          }
+        },
+        "mechanicalData": [
+          { "label": "Dimension, L x W x H (mm)", "value": "(550 x 155 x 1190)" },
+          { "label": "Cooling Concept", "value": "Advanced Nano PCM combined with forced convection" },
+          { "label": "LCD Display with Indicators", "value": "Operating mode/load/input/output, etc" },
+          { "label": "PV Connection", "value": "MC4 connector" },
+          { "label": "AC Connection", "value": "Terminal connectors" },
+          { "label": "No. of AC Output", "value": "2" },
+          { "label": "Topology", "value": "High frequency isolation" },
+          { "label": "Installation Style", "value": "Wall-mounted" },
+          { "label": "Operating Temperature Range", "value": "-10°C ~ 60°C*" },
+          { "label": "Noise", "value": "<50dB" },
+          { "label": "Warranty", "value": "5 years" },
+          { "label": "Extended Warranty", "value": "12 years" },
+          { "label": "Net Weight (kg)", "value": "80 Kgs" },
+          { "label": "Communication Interface", "value": "BMS, Dry-contact, CAN, Bluetooth, Wi-Fi, AI Cloud" },
+          { "label": "Certifications", "value": "BIS Certified (R-63005436) IS 16221 (PART 2): 2015/ IEC 62109-2: 2011 AND IS 16169: 2019/ IEC 62116: 2014 AND IS 17980: 2022/ IEC 62891:2020" }
+        ]
+      },
+      {
+        "id": 105,
+        "name": "PUREPower",
+        "value": "15.0 Lite",
+        "type": "Advanced Energy Storage & Backup Solution",
+        "image": "/assets/Products/15.0_Lite_Front.webp",
+        "about": "PUREPower 15.0 Lite (3P/3P) is a three-phase energy storage and backup solution designed for reliable power management. It combines lithium-ion battery technology, MPPT solar charging, advanced protection features and high-frequency isolation for dependable on-grid, off-grid and hybrid operation.",
+        "specs": {
+          "ratedPower": "15000 W",
+          "capacity": "12 kWh",
+          "batteryCapacity": "12 kWh",
+          "warranty": "5 years",
+          "extendedWarranty": "12 years"
+        },
+        "keySpecs": [
+          { "label": "Power", "value": "15000 W" },
+          { "label": "Capacity", "value": "12 kWh" },
+          { "label": "Voltage", "value": "48V" },
+          { "label": "Batteries", "value": "3 Nos" }
+        ],
+        "colors": [
+          { "name": "Pearl White", "class": "bg-white border border-slate-300" },
+          { "name": "Silver Metallic", "class": "bg-zinc-300" },
+          { "name": "Solar Yellow", "class": "bg-yellow-400" },
+          { "name": "Vibrant Orange", "class": "bg-orange-500" }
+        ],
+        "images": [
+          "/assets/Products/15.0_Lite_Front.webp",
+          "/assets/Products/15.0_Lite_Front.webp",
+          "/assets/Products/15.0_Lite_Front.webp",
+          "/assets/Products/15.0_Lite_Front.webp"
+        ],
+        "specSections": {
+          "input": {
+            "title": "INPUT",
+            "items": [
+              { "label": "Voltage", "value": "3 x 415 VAC" },
+              { "label": "Selectable Voltage Range", "value": "380 - 440 VAC" },
+              { "label": "Frequency Range", "value": "50 Hz/60 Hz (Auto sensing)" }
+            ]
+          },
+          "output": {
+            "title": "OUTPUT",
+            "items": [
+              { "label": "AC Voltage Regulation (Battery Mode)", "value": "415VAC ± 5%" },
+              { "label": "Surge Power", "value": "24000VA" },
+              { "label": "Efficiency (Peak)", "value": "~~ 94%" },
+              { "label": "Switching Modes", "value": "On Grid /Off Grid/Hybrid(Optional)" },
+              { "label": "Transfer Time", "value": "10 ms" },
+              { "label": "Waveform", "value": "Pure sine wave" }
+            ]
+          },
+          "solar": {
+            "title": "SOLAR CHARGER & AC CHARGER",
+            "items": [
+              { "label": "Solar Charger Type", "value": "MPPT" },
+              { "label": "No. of MPPTs", "value": "3" },
+              { "label": "Maximum PV Array Open Circuit Voltage", "value": "450 VDC" },
+              { "label": "Maximum PV Array Power", "value": "3 X 8500W" },
+              { "label": "Maximum PV Input Current", "value": "3 X 27 A" },
+              { "label": "MPP Range @ Operating Voltage", "value": "60~ 450VDC" },
+              { "label": "Maximum Solar Charge Current", "value": "360A" },
+              { "label": "Maximum AC Charge Current", "value": "360A" },
+              { "label": "Maximum Charge Current", "value": "360A" }
+            ]
+          },
+          "battery": {
+            "title": "BATTERY",
+            "items": [
+              { "label": "Battery Cell Technology", "value": "Lithium Ion" },
+              { "label": "Nominal Voltage", "value": "48V" },
+              { "label": "Battery Capacity (KWh)", "value": "12" },
+              { "label": "Max. Continuous Charging Current", "value": "60A" },
+              { "label": "Max. Continuous Discharging Current", "value": "90A X 3" },
+              { "label": "Full Charging Voltage", "value": "54.3V" },
+              { "label": "Quantity of Batteries", "value": "3 Nos" }
+            ]
+          },
+          "protection": {
+            "title": "PROTECTION",
+            "items": [
+              { "label": "Protection", "value": "5th Gen BMS,DC breaker" },
+              { "label": "Anti-islanding Protection", "value": "Integrated" },
+              { "label": "AC Over Current Protection", "value": "Integrated" },
+              { "label": "Output short circuit", "value": "Integrated" },
+              { "label": "Overload Protection", "value": "Integrated" },
+              { "label": "Battery voltage too low", "value": "Integrated" },
+              { "label": "Temperature too high", "value": "Integrated" },
+              { "label": "Input voltage out of range/Ripple too high", "value": "Integrated" },
+              { "label": "Fan block", "value": "Integrated" },
+              { "label": "IP Protection", "value": "IP54" }
+            ]
+          }
+        },
+        "mechanicalData": [
+          { "label": "Dimension, L x W x H (mm)", "value": "(510 x 524 x 1131)" },
+          { "label": "Cooling Concept", "value": "Advanced Nano PCM combined with forced convection" },
+          { "label": "LCD display with Indicators", "value": "Operating mode/load/input/output, etc" },
+          { "label": "PV Connection", "value": "MC4 connector" },
+          { "label": "AC Connection", "value": "Terminal connectors" },
+          { "label": "No. of AC Output", "value": "1" },
+          { "label": "Topology", "value": "High frequency isolation" },
+          { "label": "Installation Style", "value": "Floor standing" },
+          { "label": "Operating Temperature Range", "value": "-10°C ~ 60°C*" },
+          { "label": "Noise", "value": "<50dB" },
+          { "label": "Warranty", "value": "5 years" },
+          { "label": "Extended Warranty", "value": "12 years" },
+          { "label": "Net Weight (kg)", "value": "150 Kgs" },
+          { "label": "Communication Interface", "value": "BMS, Dry-contact, CAN, Bluetooth, Wi-Fi, AI Cloud" },
+          { "label": "Certifications", "value": "BIS Certified (R-63005436) IS 16221 (PART 2): 2015/ IEC 62109-2: 2011 AND IS 16169: 2019/ IEC 62116: 2014 AND IS 17980: 2022/" }
+        ]
+      },
+      {
+        "id": 106,
+        "name": "PUREPower",
+        "value": "20.0",
+        "type": "High-Capacity Energy Storage & Backup Solution",
+        "image": "/assets/Products/20.0.webp",
+        "about": "PUREPower 20.0 (3P/3P) is a high-capacity energy storage and backup solution designed for reliable three-phase power management. It combines lithium-ion battery technology, advanced MPPT solar charging, intelligent energy management and high-frequency isolation for dependable on-grid, off-grid and hybrid operation.",
+        "specs": {
+          "ratedPower": "20000 W",
+          "capacity": "20 kWh",
+          "batteryCapacity": "20 kWh",
+          "backupTime": "High-capacity backup",
+          "warranty": "5 years",
+          "extendedWarranty": "12 years",
+          "smartAI": "Yes",
+          "solarSupport": "Yes",
+          "thermal": "Yes",
+          "maintenance": "Yes"
+        },
+        "keySpecs": [
+          { "label": "Power", "value": "20000 W" },
+          { "label": "Capacity", "value": "20 kWh" },
+          { "label": "Voltage", "value": "48V" },
+          { "label": "Batteries", "value": "5 Nos" }
+        ],
+        "colors": [
+          { "name": "Pearl White", "class": "bg-white border border-slate-300" },
+          { "name": "Silver Metallic", "class": "bg-zinc-300" },
+          { "name": "Solar Yellow", "class": "bg-yellow-400" },
+          { "name": "Vibrant Orange", "class": "bg-orange-500" }
+        ],
+        "images": [
+          "/assets/Products/20.0.webp",
+          "/assets/Products/20.0.webp",
+          "/assets/Products/20.0.webp",
+          "/assets/Products/20.0.webp"
+        ],
+        "specSections": {
+          "input": {
+            "title": "INPUT",
+            "items": [
+              { "label": "Voltage", "value": "3 x 415 VAC" },
+              { "label": "Selectable Voltage Range", "value": "380 - 440 VAC" },
+              { "label": "Frequency Range", "value": "50 Hz/60 Hz (Auto sensing)" }
+            ]
+          },
+          "output": {
+            "title": "OUTPUT",
+            "items": [
+              { "label": "AC Voltage Regulation (Battery Mode)", "value": "415VAC ± 5%" },
+              { "label": "Surge Power", "value": "36000VA" },
+              { "label": "Efficiency (Peak)", "value": "~94%" },
+              { "label": "Switching Modes", "value": "On Grid / Off Grid / Hybrid (Optional)" },
+              { "label": "Transfer Time", "value": "10 ms" },
+              { "label": "Waveform", "value": "Pure sine wave" }
+            ]
+          },
+          "solar": {
+            "title": "SOLAR CHARGER & AC CHARGER",
+            "items": [
+              { "label": "Solar Charger Type", "value": "MPPT" },
+              { "label": "No. of MPPTs", "value": "3" },
+              { "label": "Maximum PV Array Open Circuit Voltage", "value": "450 VDC" },
+              { "label": "Maximum PV Array Power", "value": "3 X 8500W" },
+              { "label": "Maximum PV Input Current", "value": "3 X 27 A" },
+              { "label": "MPP Range @ Operating Voltage", "value": "60 ~ 450VDC" },
+              { "label": "Maximum Solar Charge Current", "value": "360A" },
+              { "label": "Maximum AC Charge Current", "value": "360A" },
+              { "label": "Maximum Charge Current", "value": "360A" }
+            ]
+          },
+          "battery": {
+            "title": "BATTERY",
+            "items": [
+              { "label": "Battery Cell Technology", "value": "Lithium Ion" },
+              { "label": "Nominal Voltage", "value": "48V" },
+              { "label": "Battery Capacity", "value": "20 kWh" },
+              { "label": "Max. Continuous Charging Current", "value": "60A" },
+              { "label": "Max. Continuous Discharging Current", "value": "90A X 5" },
+              { "label": "Full Charging Voltage", "value": "54.3V" },
+              { "label": "Quantity of Batteries", "value": "5 Nos" }
+            ]
+          },
+          "protection": {
+            "title": "PROTECTION",
+            "items": [
+              { "label": "Protection", "value": "5th Gen BMS, DC breaker" },
+              { "label": "Anti-islanding Protection", "value": "Integrated" },
+              { "label": "AC Over Current Protection", "value": "Integrated" },
+              { "label": "Output Short Circuit", "value": "Integrated" },
+              { "label": "Overload Protection", "value": "Integrated" },
+              { "label": "Battery Voltage Too Low", "value": "Integrated" },
+              { "label": "Temperature Too High", "value": "Integrated" },
+              { "label": "Input Voltage Out of Range / Ripple Too High", "value": "Integrated" },
+              { "label": "Fan Block", "value": "Integrated" },
+              { "label": "IP Protection", "value": "IP54" }
+            ]
+          }
+        },
+        "mechanicalData": [
+          { "label": "Dimension, W x D x H (mm)", "value": "(490 x 540 x 1325)" },
+          { "label": "Cooling Concept", "value": "Advanced Nano PCM combined with forced convection" },
+          { "label": "LCD Display with Indicators", "value": "Operating mode / load / input / output, etc" },
+          { "label": "PV Connection", "value": "MC4 connector" },
+          { "label": "AC Connection", "value": "Terminal connectors" },
+          { "label": "No. of AC Output", "value": "1" },
+          { "label": "Topology", "value": "High frequency isolation" },
+          { "label": "Installation Style", "value": "Floor standing" },
+          { "label": "Operating Temperature Range", "value": "-10°C ~ 60°C*" },
+          { "label": "Noise", "value": "<50dB" },
+          { "label": "Warranty", "value": "5 years" },
+          { "label": "Extended Warranty", "value": "12 years" },
+          { "label": "Net Weight (kg)", "value": "200 Kgs" },
+          { "label": "Communication Interface", "value": "BMS, Dry-contact, CAN, Bluetooth, Wi-Fi, AI Cloud" },
+          { "label": "Certifications", "value": "BIS Certified (R-63005436) IS 16221 (PART 2): 2015 / IEC 62109-2: 2011 AND IS 16169: 2019 / IEC 62116: 2014 AND IS 17980: 2022" }
+        ]
+      },
+      {
+        "id": 107,
+        "name": "PUREPower",
+        "value": "30.0",
+        "type": "PUREPower 30.0 (3P/3P)",
+        "image": "/assets/Products/30.0.png",
+        "about": "PuREPower 30.0 (3P/3P) is a three-phase energy storage and backup solution with 30000 W rated power, lithium-ion battery technology, 6 MPPTs, advanced protection and high-frequency isolation. It supports On Grid, Off Grid and Hybrid operation for reliable and flexible energy management.",
+        "specs": {
+          "ratedPower": "30000 W",
+          "capacity": "30 kWh",
+          "batteryCapacity": "30 kWh",
+          "backupTime": "Reliable backup support",
+          "warranty": "5 years",
+          "extendedWarranty": "12 years",
+          "smartAI": "Yes",
+          "solarSupport": "Yes",
+          "thermal": "Yes",
+          "maintenance": "Yes"
+        },
+        "keySpecs": [
+          { "label": "Power", "value": "30000 W" },
+          { "label": "Capacity", "value": "30 kWh" },
+          { "label": "Voltage", "value": "48V" },
+          { "label": "Batteries", "value": "7 Nos" }
+        ],
+        "colors": [
+          { "name": "Pearl White", "class": "bg-white border border-slate-300" },
+          { "name": "Silver Metallic", "class": "bg-zinc-300" },
+          { "name": "Solar Yellow", "class": "bg-yellow-400" },
+          { "name": "Vibrant Orange", "class": "bg-orange-500" }
+        ],
+        "images": [
+          "/assets/Products/30.0.png",
+          "/assets/Products/30.0.png",
+          "/assets/Products/30.0.png",
+          "/assets/Products/30.0.png"
+        ],
+        "specSections": {
+          "input": {
+            "title": "INPUT",
+            "items": [
+              { "label": "Voltage", "value": "3 x 415 VAC" },
+              { "label": "Selectable Volatage Range", "value": "380 - 440 VAC" },
+              { "label": "Frequency Range", "value": "50 Hz/60 Hz (Auto sensing)" }
+            ]
+          },
+          "output": {
+            "title": "OUTPUT",
+            "items": [
+              { "label": "AC Voltage Regulation (Battery Mode)", "value": "415VAC ± 5%" },
+              { "label": "Surge Power", "value": "60000VA" },
+              { "label": "Efficiency (Peak)", "value": "~~ 94%" },
+              { "label": "Switching Modes", "value": "On Grid /Off Grid/Hybrid(Optional)" },
+              { "label": "Transfer Time", "value": "10 ms" },
+              { "label": "Waveform", "value": "Pure sine wave" }
+            ]
+          },
+          "solar": {
+            "title": "SOLAR CHARGER & AC CHARGER",
+            "items": [
+              { "label": "Solar Charger Type", "value": "MPPT" },
+              { "label": "No. of MPPTs", "value": "6" },
+              { "label": "Maximum PV Array Open Circuit Voltage", "value": "450 VDC" },
+              { "label": "Maximum PV Array Power", "value": "6 X 7500W" },
+              { "label": "Maximum PV Input Current", "value": "6X 27 A" },
+              { "label": "MPP Range @ Operating Voltage", "value": "60~ 450VDC" },
+              { "label": "Maximum Solar Charge Current", "value": "450A" },
+              { "label": "Maximum AC Charge Current", "value": "450A" },
+              { "label": "Maximum Charge Current", "value": "450A" }
+            ]
+          },
+          "battery": {
+            "title": "BATTERY",
+            "items": [
+              { "label": "Battery Cell Technology", "value": "Lithium Ion" },
+              { "label": "Nominal Voltage", "value": "48V" },
+              { "label": "Battery Capacity (kWh)", "value": "30" },
+              { "label": "Max. Continuous charging Current", "value": "150A" },
+              { "label": "Max. Continuous Discharging Current", "value": "90A X 7" },
+              { "label": "Full Charging Voltage", "value": "54.3V" },
+              { "label": "Full Discharging Voltage", "value": "40V" },
+              { "label": "Quantity of Batteries", "value": "7 Nos" }
+            ]
+          },
+          "protection": {
+            "title": "PROTECTION",
+            "items": [
+              { "label": "Protection", "value": "5th Gen BMS,DC breaker" },
+              { "label": "Anti-islanding Protection", "value": "Integrated" },
+              { "label": "AC Over Current Protection", "value": "Integrated" },
+              { "label": "Output short circuit", "value": "Integrated" },
+              { "label": "Overload Protection", "value": "Integrated" },
+              { "label": "Battery voltage too low", "value": "Integrated" },
+              { "label": "Temperature too high", "value": "Integrated" },
+              { "label": "Input voltage out of range/Ripple too high", "value": "Integrated" },
+              { "label": "Fan block", "value": "Integrated" },
+              { "label": "IP Protection", "value": "IP54" }
+            ]
+          }
+        },
+        "mechanicalData": [
+          { "label": "Dimension, L x W x H (mm)", "value": "(756 x 633 x 1620)" },
+          { "label": "Cooling concept", "value": "Advanced Nano PCM combined with forced convection" },
+          { "label": "LCD display with indicators", "value": "Operating mode/load/input/output, etc" },
+          { "label": "PV connection", "value": "MC4 connector" },
+          { "label": "AC connection", "value": "Terminal connectors" },
+          { "label": "No.of AC Output", "value": "1" },
+          { "label": "Topology", "value": "High frequency isolation" },
+          { "label": "Installation Style", "value": "Floor standing" },
+          { "label": "Operating Temperature Range", "value": "-10°C ~ 60°C*" },
+          { "label": "Noise", "value": "<50dB" },
+          { "label": "Warranty", "value": "5 years" },
+          { "label": "Extended Warranty", "value": "12 years" },
+          { "label": "Net Weight (kg)", "value": "345 ± 5 Kgs" },
+          { "label": "Communication Interface", "value": "BMS, Dry-contact, CAN, Bluetooth, Wi-Fi, AI Cloud" },
+          { "label": "Certifications", "value": "BIS Certified (R-63005436) IS 16221 (PART 2): 2015/ IEC 62109-2: 2011 AND IS 16169: 2019/ IEC 62116: 2014 AND IS 17980: 2022/ IEC 62891:2020" }
+        ]
+      },
+      {
+        "id": 108,
+        "name": "PUREPower",
+        "value": "60.0",
+        "type": "60 kW High-Capacity Energy Storage & Backup Solution",
+        "image": "/assets/Products/PuREPower 60.0.png",
+        "about": "PuREPower 60.0 is a high-capacity three-phase energy storage and backup solution designed for demanding commercial and industrial power requirements. With 60000 W rated power, lithium-ion battery technology, 12 MPPTs, advanced protection, high-frequency isolation and intelligent communication interfaces, it supports On Grid, Off Grid and Hybrid operation for reliable and flexible energy management.",
+        "specs": {
+          "ratedPower": "60000 W",
+          "capacity": "60 kWh",
+          "batteryCapacity": "60 kWh",
+          "backupTime": "High-capacity backup support",
+          "warranty": "5 years",
+          "extendedWarranty": "12 years",
+          "smartAI": "Yes",
+          "solarSupport": "Yes",
+          "thermal": "Yes",
+          "maintenance": "Yes"
+        },
+        "keySpecs": [
+          { "label": "Power", "value": "60000 W" },
+          { "label": "Capacity", "value": "60 kWh" },
+          { "label": "Voltage", "value": "48V" },
+          { "label": "Batteries", "value": "14 Nos" }
+        ],
+        "colors": [
+          { "name": "Pearl White", "class": "bg-white border border-slate-300" },
+          { "name": "Silver Metallic", "class": "bg-zinc-300" },
+          { "name": "Solar Yellow", "class": "bg-yellow-400" },
+          { "name": "Vibrant Orange", "class": "bg-orange-500" }
+        ],
+        "images": [
+          "/assets/Products/PuREPower 60.0.png",
+          "/assets/Products/PuREPower 60.0.png",
+          "/assets/Products/PuREPower 60.0.png",
+          "/assets/Products/PuREPower 60.0.png"
+        ],
+        "specSections": {
+          "input": {
+            "title": "INPUT",
+            "items": [
+              { "label": "Voltage", "value": "3 x 415 VAC" },
+              { "label": "Selectable Voltage Range", "value": "380 - 440 VAC" },
+              { "label": "Frequency Range", "value": "50 Hz/60 Hz (Auto sensing)" }
+            ]
+          },
+          "output": {
+            "title": "OUTPUT",
+            "items": [
+              { "label": "AC Voltage Regulation (Battery Mode)", "value": "415VAC ± 5%" },
+              { "label": "Surge Power", "value": "120000VA" },
+              { "label": "Efficiency (Peak)", "value": "~~ 94%" },
+              { "label": "Switching Modes", "value": "On Grid /Off Grid/Hybrid(Optional)" },
+              { "label": "Transfer Time", "value": "10 ms" },
+              { "label": "Waveform", "value": "Pure sine wave" }
+            ]
+          },
+          "solar": {
+            "title": "SOLAR CHARGER & AC CHARGER",
+            "items": [
+              { "label": "Solar Charger Type", "value": "MPPT" },
+              { "label": "No. of MPPTs", "value": "12" },
+              { "label": "Maximum PV Array Open Circuit Voltage", "value": "450 VDC" },
+              { "label": "Maximum PV Array Power", "value": "12 X 7500W" },
+              { "label": "Maximum PV Input Current", "value": "12X 27 A" },
+              { "label": "MPP Range @ Operating Voltage", "value": "60~ 450VDC" },
+              { "label": "Maximum Solar Charge Current", "value": "450A" },
+              { "label": "Maximum AC Charge Current", "value": "450A" },
+              { "label": "Maximum Charge Current", "value": "450A" }
+            ]
+          },
+          "battery": {
+            "title": "BATTERY",
+            "items": [
+              { "label": "Battery Cell Technology", "value": "Lithium Ion" },
+              { "label": "Nominal Voltage", "value": "48V" },
+              { "label": "Battery Capacity (kWh)", "value": "60" },
+              { "label": "Max. Continuous Charging Current", "value": "150A" },
+              { "label": "Max. Continuous Discharging Current", "value": "90A X 14" },
+              { "label": "Full Charging Voltage", "value": "54.3V" },
+              { "label": "Full Discharging Voltage", "value": "40V" },
+              { "label": "Quantity of Batteries", "value": "14 Nos" }
+            ]
+          },
+          "protection": {
+            "title": "PROTECTION",
+            "items": [
+              { "label": "Protection", "value": "5th Gen BMS,DC breaker" },
+              { "label": "Anti-islanding Protection", "value": "Integrated" },
+              { "label": "AC Over Current Protection", "value": "Integrated" },
+              { "label": "Output short circuit", "value": "Integrated" },
+              { "label": "Overload Protection", "value": "Integrated" },
+              { "label": "Battery voltage too low", "value": "Integrated" },
+              { "label": "Temperature too high", "value": "Integrated" },
+              { "label": "Input voltage out of range/Ripple too high", "value": "Integrated" },
+              { "label": "Fan block", "value": "Integrated" },
+              { "label": "IP Protection", "value": "IP54" }
+            ]
+          }
+        },
+        "mechanicalData": [
+          { "label": "Dimension, W x D x H (mm)", "value": "(820 x 1155 x 1450)" },
+          { "label": "Cooling concept", "value": "Advanced Nano PCM combined with forced convection" },
+          { "label": "LCD display with indicators", "value": "Operating mode/load/input/output, etc" },
+          { "label": "PV connection", "value": "MC4 connector" },
+          { "label": "AC connection", "value": "Terminal connectors" },
+          { "label": "No.of AC Output", "value": "1" },
+          { "label": "Topology", "value": "High frequency isolation" },
+          { "label": "Installation Style", "value": "Floor standing" },
+          { "label": "Operating Temperature Range", "value": "-10°C ~ 60°C*" },
+          { "label": "Noise", "value": "<50dB" },
+          { "label": "Warranty", "value": "5 years" },
+          { "label": "Extended Warranty", "value": "12 years" },
+          { "label": "Net Weight (kg)", "value": "690 ± 5 Kgs" },
+          { "label": "Communication Interface", "value": "BMS, Dry-contact, CAN, Bluetooth, Wi-Fi, AI Cloud" },
+          { "label": "Certifications", "value": "BIS Certified (R-63005436) IS 16221 (PART 2): 2015/ IEC 62109-2: 2011 AND IS 16169: 2019/ IEC 62116: 2014 AND IS 17980: 2022/ IEC 62891:2020" }
+        ]
+      },
+      {
+        "id": 109,
+        "name": "PUREPower",
+        "value": "120.0",
+        "type": "Octane120.0 (3P/3P) High-Capacity Energy Storage & Backup Solution",
+        "image": "/assets/Products/PuREPower 120.0.png",
+        "about": "PUREPower 120.0 (Octane120.0 3P/3P) is a high-capacity three-phase energy storage and backup solution designed for large-scale commercial and industrial applications. Featuring 120000 W rated power, 120 kWh battery capacity, 24 MPPT solar tracking, high-frequency isolation and 5th Gen BMS protection, it supports reliable On Grid, Off Grid and Hybrid operations.",
+        "specs": {
+          "ratedPower": "120000 W",
+          "capacity": "120 kWh",
+          "batteryCapacity": "120 kWh",
+          "backupTime": "Ultra high-capacity backup support",
+          "warranty": "5 years",
+          "extendedWarranty": "12 years",
+          "smartAI": "Yes",
+          "solarSupport": "Yes",
+          "thermal": "Yes",
+          "maintenance": "Yes"
+        },
+        "keySpecs": [
+          { "label": "Power", "value": "120 kW" },
+          { "label": "Capacity", "value": "120 kWh" },
+          { "label": "Voltage", "value": "48V" },
+          { "label": "Batteries", "value": "28 Nos" }
+        ],
+        "colors": [
+          { "name": "Pearl White", "class": "bg-white border border-slate-300" },
+          { "name": "Silver Metallic", "class": "bg-zinc-300" },
+          { "name": "Solar Yellow", "class": "bg-yellow-400" },
+          { "name": "Vibrant Orange", "class": "bg-orange-500" }
+        ],
+        "images": [
+          "/assets/Products/PuREPower 120.0.png",
+          "/assets/Products/PuREPower 120.0.png",
+          "/assets/Products/PuREPower 120.0.png",
+          "/assets/Products/PuREPower 120.0.png"
+        ],
+        "specSections": {
+          "input": {
+            "title": "INPUT",
+            "items": [
+              { "label": "Voltage", "value": "3 x 415 VAC" },
+              { "label": "Selectable Voltages Range", "value": "380 - 440 VAC" },
+              { "label": "Frequency Range", "value": "50 Hz/60 Hz (Auto sensing)" }
+            ]
+          },
+          "output": {
+            "title": "OUTPUT",
+            "items": [
+              { "label": "AC Voltage Regulation (Battery Mode)", "value": "415VAC ± 5%" },
+              { "label": "Surge Power", "value": "180000VA" },
+              { "label": "Efficiency (Peak)", "value": "~ 94%" },
+              { "label": "Switching Modes", "value": "On Grid /Off Grid/Hybrid(Optional)" },
+              { "label": "Transfer Time", "value": "10 ms" },
+              { "label": "Waveform", "value": "Pure sine wave" }
+            ]
+          },
+          "solar": {
+            "title": "SOLAR CHARGER & AC CHARGER",
+            "items": [
+              { "label": "Solar Charger Type", "value": "MPPT" },
+              { "label": "No. of MPPTs", "value": "24" },
+              { "label": "Maximum PV Array Open Circuit Voltage", "value": "450 VDC" },
+              { "label": "Maximum PV Array Power", "value": "24 X 7500W" },
+              { "label": "Maximum PV Input Current", "value": "24 X 27 A" },
+              { "label": "MPP Range @ Operating Voltage", "value": "90~ 450VDC" },
+              { "label": "Maximum Solar Charge Current", "value": "900A" },
+              { "label": "Maximum AC Charge Current", "value": "900A" },
+              { "label": "Maximum Charge Current", "value": "900A" }
+            ]
+          },
+          "battery": {
+            "title": "BATTERY",
+            "items": [
+              { "label": "Battery Cell Technology", "value": "Lithium Ion" },
+              { "label": "Nominal Voltage", "value": "48V" },
+              { "label": "Battery Capacity (kWh)", "value": "120" },
+              { "label": "Max. Continuous Charging Current", "value": "300A" },
+              { "label": "Max. Continuous Discharging Current", "value": "90A X 28" },
+              { "label": "Full Charging Voltage", "value": "54.3V" },
+              { "label": "Full Discharging Voltage", "value": "40V" },
+              { "label": "Quantity of Batteries", "value": "28 Nos" }
+            ]
+          },
+          "protection": {
+            "title": "PROTECTION",
+            "items": [
+              { "label": "Protection", "value": "5th Gen BMS, DC breaker" },
+              { "label": "Anti-islanding Protection", "value": "Integrated" },
+              { "label": "AC Over Current Protection", "value": "Integrated" },
+              { "label": "Output short circuit", "value": "Integrated" },
+              { "label": "Overload Protection", "value": "Integrated" },
+              { "label": "Battery voltage too low", "value": "Integrated" },
+              { "label": "Temperature too high", "value": "Integrated" },
+              { "label": "Input voltage out of range/Ripple too high", "value": "Integrated" },
+              { "label": "Fan block", "value": "Integrated" },
+              { "label": "IP Protection", "value": "IP54" }
+            ]
+          }
+        },
+        "mechanicalData": [
+          { "label": "Dimension, L x W x H (mm)", "value": "(2514 x 940 x 1890)" },
+          { "label": "Cooling concept", "value": "Advanced Nano PCM combined with forced convection" },
+          { "label": "LCD display with indicators", "value": "Operating mode/load/input/output, etc" },
+          { "label": "PV connection", "value": "MC4 connector" },
+          { "label": "AC connection", "value": "Terminal connectors" },
+          { "label": "No. of AC Output", "value": "1" },
+          { "label": "Topology", "value": "High frequency isolation" },
+          { "label": "Installation Style", "value": "Floor standing" },
+          { "label": "Operating Temperature Range", "value": "-10°C ~ 60°C*" },
+          { "label": "Noise", "value": "<50dB" },
+          { "label": "Warranty", "value": "5 years" },
+          { "label": "Extended Warranty", "value": "12 years" },
+          { "label": "Net Weight (kg)", "value": "1800 ± 10 Kgs" },
+          { "label": "Communication Interface", "value": "BMS, Dry-contact, CAN, Bluetooth, Wi-Fi, AI Cloud" },
+          { "label": "Certifications", "value": "BIS Certified (R-63005436) IS 16221 (PART 2): 2015/ IEC 62109-2: 2011 AND IS 16169: 2019/ IEC 62116: 2014 AND IS 17980: 2022/ IEC 62891:2020" }
+        ]
+      }
+    ]
+  }
+]
