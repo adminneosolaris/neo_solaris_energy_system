@@ -6,6 +6,7 @@ import { WRAP, SYSTEM_CHAIN, ease } from './NeoUI';
 import EnergyChain from './EnergyChain';
 
 import Banner from '../assets/Other banner images/Solution_Banner.webp';
+import { Helmet } from 'react-helmet-async';
 
 // ─── HERO SLIDE FROM RIGHT EDGE HELPER ──────────────────────────────────────
 const SlideLine = ({ children, delay = 0, className = '' }) => (
@@ -222,6 +223,12 @@ const Solutions = () => {
   const compareTitle = 'PUREPower vs Conventional Inverter vs Diesel Generator'.split(' ');
 
   return (
+    <>
+    <Helmet>
+      <title>Solutions - Neo Solaris Energy Systems</title>
+      <meta name="description" content="Explore commercial and residential energy solutions tailored to your power requirements." />
+    </Helmet>
+    
     <main className="w-full overflow-x-hidden bg-white font-sans text-slate-900">
       {/* ---------------- BRIGHT & CRISP HERO SECTION (ABOUTPAGE STYLING) ---------------- */}
       <section className="relative flex min-h-[85vh] w-full items-center overflow-x-clip overflow-y-hidden bg-slate-950 sm:min-h-screen">
@@ -521,6 +528,7 @@ const Solutions = () => {
         </div>
       </section>
     </main>
+    </>
   );
 };
 

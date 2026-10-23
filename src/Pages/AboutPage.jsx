@@ -12,6 +12,7 @@ import { Link } from 'react-router-dom';
 import { SectionHead, WRAP, STRENGTHS, ease } from './NeoUI';
 
 import image1 from '../assets/Other banner images/About_Banner.webp';
+import { Helmet } from 'react-helmet-async';
 
 /* ======================================================================
    HERO helper — smooth slide from absolute screen right edge (100vw)
@@ -244,6 +245,12 @@ const AboutPage = () => {
   const strengthsIn = useInView(strengthsRef, { once: false, amount: 0.08 });
 
   return (
+    <>
+    <Helmet>
+      <title>About Us - Neo Solaris Energy Systems</title>
+      <meta name="description" content="Learn more about Neo Solaris, our mission, and our advanced solar and battery energy solutions." />
+    </Helmet>
+    
     <main className="w-full bg-white font-sans text-slate-900 overflow-x-hidden">
       {/* ---------------- BRIGHT & CRISP HERO SECTION ---------------- */}
       <section
@@ -426,6 +433,7 @@ const AboutPage = () => {
         </div>
       </section>
     </main>
+    </>
   );
 };
 

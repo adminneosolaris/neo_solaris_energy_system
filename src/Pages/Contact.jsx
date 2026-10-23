@@ -7,6 +7,7 @@ import { Btn, LiveDot, WRAP, CONTACT, ease } from './NeoUI';
 import SelfAssessment, { NEEDS } from './SelfAssessment';
 
 import Banner from '../assets/Other banner images/Contact_Banner.webp';
+import { Helmet } from 'react-helmet-async';
 
 // ─── HERO SLIDE FROM RIGHT EDGE HELPER ──────────────────────────────────────
 const SlideLine = ({ children, delay = 0, className = '' }) => (
@@ -46,6 +47,12 @@ const Contact = () => {
   }, [hash]);
 
   return (
+    <>
+    <Helmet>
+      <title>Contact Us - Neo Solaris Energy Systems</title>
+      <meta name="description" content="Get in touch with Neo Solaris for expert solar and energy storage consultations." />
+    </Helmet>
+
     <main className="w-full overflow-x-hidden bg-white">
       {/* ---------------- BRIGHT & CRISP HERO SECTION (ABOUTPAGE STYLING) ---------------- */}
       <section className="relative flex min-h-[85vh] w-full items-center overflow-x-clip overflow-y-hidden bg-slate-950 sm:min-h-screen">
@@ -275,6 +282,7 @@ const Contact = () => {
         </div>
       </section>
     </main>
+    </>
   );
 };
 

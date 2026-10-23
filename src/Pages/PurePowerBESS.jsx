@@ -7,6 +7,7 @@ import EnergyChain from './EnergyChain';
 import WhatIsBESS from './WhatIsBESS';
 
 import Banner from '../assets/Other banner images/PuREPower BESS_Banner.webp';
+import { Helmet } from 'react-helmet-async';
 
 // ─── HERO SLIDE FROM RIGHT EDGE HELPER ──────────────────────────────────────
 const SlideLine = ({ children, delay = 0, className = '' }) => (
@@ -130,6 +131,12 @@ const PurePowerBESS = () => {
   const partnersIn = useInView(partnersRef, { once: false, amount: 0.2 });
 
   return (
+    <>
+    <Helmet>
+      <title>PurePower BESS - Neo Solaris Energy Systems</title>
+      <meta name="description" content="Discover PurePower Battery Energy Storage Systems for seamless power backup and efficiency." />
+    </Helmet>
+    
     <main className="w-full overflow-x-hidden bg-white font-sans text-slate-900 antialiased">
       {/* ---------------- BRIGHT & CRISP HERO SECTION (ABOUTPAGE STYLING) ---------------- */}
       <section className="relative flex min-h-[85vh] w-full items-center overflow-x-clip overflow-y-hidden bg-slate-950 sm:min-h-screen">
@@ -411,6 +418,7 @@ const PurePowerBESS = () => {
         </div>
       </section>
     </main>
+    </>
   );
 };
 
